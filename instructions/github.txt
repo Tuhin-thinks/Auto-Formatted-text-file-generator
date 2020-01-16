@@ -1,0 +1,18 @@
+--read-me.md:
+  * It has the basic overview of the working of the code
+  * details such as use of 'next', 'complete' commands are not provided
+  * Not been mentioned about 'to be continued' feature of the code.
+--information.txt:
+  1. Start with giving the name of the file, **with the file extension**
+  2. If file not exists it will create one, in the current working directory.
+  3. Then when it asks for the subject name enter the subject name in a single line.
+  4. Then it asks something like "Enter the syllabus:"
+  5. You can enter the syllabus in multiline text, all the lines under the syllabus will be indented right.
+  6. when writing syllabus is complete, but you want to write on another subject, then press 'next'
+  7. It will ask for subject name and again the steps from 3 to 5 will be repeated.
+  8. when you are writing the syllabus, if you enter 'complete', the code will terminate there.
+  9. when you are writing the subject name, if you press 'complete', the code will terminate with the following line at the end:
+                              to be continued...                 x            ---------------
+  aligned somewhat to the center of the text file!
+  You can also look at this console(output) window to get a detailed idea by compairing with the text file, that is generated
+                                                                                                  Thanks
